@@ -6,4 +6,7 @@ List<string> groceryStores = new List<string>
             "Whole Foods",
             "Safeway"
         };
+ 
+   Console.WriteLine("List :");
 Console.WriteLine("List of Grocery Stores:");
+
