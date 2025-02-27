@@ -1,0 +1,14 @@
+List<string> groceryStores = new List<string>
+        {
+            "Walmart",
+            "Costco",
+            "Kroger",
+            "Whole Foods",
+            "Safeway"
+        };
+
+        Console.WriteLine("List of Grocery Stores:");
+        foreach (var store in groceryStores)
+        {
+            Console.WriteLine("- " + store);
+        }
