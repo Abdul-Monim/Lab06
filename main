@@ -12,3 +12,4 @@ List<string> groceryStores = new List<string>
         {
             Console.WriteLine("- " + store);
         }
+c
